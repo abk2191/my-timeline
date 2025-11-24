@@ -238,7 +238,7 @@ i {
 .my-image-div {
   height: 100px;
   width: 100px;
-  border: 4px solid rgb(123, 165, 234);
+  border: 4px solid blueviolet;
   border-radius: 50%;
   background-image: url("/abk.jpg");
   background-size: cover;
