@@ -87,14 +87,13 @@ body {
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 .badge-green {
   margin-top: 15px;
   color: green;
   font-size: 20px;
+  text-align: center;
 }
 
 i {
@@ -113,6 +112,7 @@ i {
   margin-top: 15px;
   color: red;
   font-size: 20px;
+  text-align: center;
 }
 
 .job-container:hover {
