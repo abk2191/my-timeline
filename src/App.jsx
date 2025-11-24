@@ -110,22 +110,24 @@ function App() {
           <div className="name-div">
             <h1>Abhishek kabi</h1>
           </div>
-          <div className="details">
-            <p>
-              <strong>DOB:</strong> 21/DEC/1991
-            </p>
-            <p>
-              <strong>AGE:</strong> 33
-            </p>
-            <p>
-              <strong>HOMETOWN:</strong> COOCHBEHAR, WEST BENGAL
-            </p>
-            <p>
-              <strong>CURRENT LOCATION:</strong> BENGALURU, KARNATAKA
-            </p>
-            <p>
-              <strong>RELATIONSHIP STATUS:</strong> SINGLE/UNMARRIED
-            </p>
+          <div className="ditails-cont">
+            <div className="details">
+              <p>
+                <strong>DOB:</strong> 21/DEC/1991
+              </p>
+              <p>
+                <strong>AGE:</strong> 33
+              </p>
+              <p>
+                <strong>HOMETOWN:</strong> COOCHBEHAR, WEST BENGAL
+              </p>
+              <p>
+                <strong>CURRENT LOCATION:</strong> BENGALURU, KARNATAKA
+              </p>
+              <p>
+                <strong>RELATIONSHIP STATUS:</strong> SINGLE/UNMARRIED
+              </p>
+            </div>
           </div>
         </div>
         <div className="divider">
