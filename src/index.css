@@ -297,6 +297,10 @@ nav a {
   font-size: 22px;
 }
 
+.fam-mem-details h1 {
+  color: gray;
+}
+
 .fam-mem {
   display: flex;
   align-items: center;
@@ -327,6 +331,15 @@ nav a {
   .main-container {
     padding: 20px 16px;
     gap: 24px;
+  }
+
+  .fam-mem-details h1 {
+    font-size: 25px;
+  }
+
+  .fam-mem-img {
+    height: 100px;
+    width: 100px;
   }
 
   .about {
@@ -394,6 +407,15 @@ nav a {
   .main-container {
     padding: 16px 12px;
     gap: 20px;
+  }
+
+  .fam-mem-details h1 {
+    font-size: 25px;
+  }
+
+  .fam-mem-img {
+    height: 100px;
+    width: 100px;
   }
 
   .about {
