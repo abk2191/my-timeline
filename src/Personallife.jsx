@@ -56,6 +56,30 @@ function Personallife() {
           </div>
         </div>
       </div>
+      <div className="divider">
+        <h1>My Story</h1>
+      </div>
+      <div className="my-story-div">
+        <div className="my-story">
+          <p>• As a kid I was into Electronics and Computers and Designs.</p>
+          <p>
+            • When I joined college, VIT, I found myself surrounded by rich kids
+            from big Indian cities, did not learn anything, my time was wasted
+            because of them.
+          </p>
+          <p>• Because of that reason I got hooked to ganja/weed in college.</p>
+          <p>• I am a 13 year-long weed user and an addict.</p>
+          <p>
+            • Because of that I lost everything: The love of my life, all my
+            jobs, I ended up absconding/running from every job I ever did, ended
+            up in rehab twice.
+          </p>
+          <p>• My bank balance is zero. No career as of today.</p>
+          <p>
+            • But I am still here, still fighting, hoping for a stable future.
+          </p>
+        </div>
+      </div>
     </>
   );
 }

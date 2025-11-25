@@ -321,6 +321,34 @@ nav a {
   border: 6px solid gold;
 }
 
+.my-story-div {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  padding: 15px;
+  border-radius: 16px;
+  border: 1px solid #e1e5e9;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  display: flex;
+}
+
+.my-story p {
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  color: gray;
+  list-style: 1.6;
+  text-wrap: wrap;
+  text-align: left;
+  position: relative;
+}
+
+.my-story {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
 * {
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
