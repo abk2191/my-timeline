@@ -317,6 +317,7 @@ nav a {
   height: 120px;
   width: 120px;
   border-radius: 50%;
+  border: 2px solid blue;
 }
 
 * {
@@ -336,7 +337,7 @@ nav a {
   }
 
   .fam-mem-details h1 {
-    font-size: 25px;
+    font-size: 20px;
   }
 
   .fam-mem-img {
@@ -412,7 +413,7 @@ nav a {
   }
 
   .fam-mem-details h1 {
-    font-size: 25px;
+    font-size: 20px;
   }
 
   .fam-mem-img {
@@ -467,6 +468,10 @@ nav a {
   .main-container {
     padding: 12px 8px;
     gap: 16px;
+  }
+
+  .fam-mem-details h1 {
+    font-size: 20px;
   }
 
   .fam-mem-img {
