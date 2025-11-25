@@ -4,6 +4,8 @@ import nkimage from "/nk.png";
 import ayaan from "/ayaan.png";
 import sanna from "/sanna.png";
 import lovelyimg from "/lovely.png";
+import ckhouse from "/ckhouse.jpg";
+import sagardighi from "/sagardighi.jpg";
 
 function Personallife() {
   return (
@@ -79,6 +81,18 @@ function Personallife() {
             • But I am still here, still fighting, hoping for a stable future.
           </p>
         </div>
+      </div>
+      <div className="divider">
+        <h1>The Home I Grew Up In</h1>
+      </div>
+      <div className="ckhouse">
+        <img src={ckhouse} className="ckhouse-img" />
+      </div>
+      <div className="divider">
+        <h1>My City</h1>
+      </div>
+      <div className="my-city">
+        <img src={sagardighi} className="my-city-img" />
       </div>
     </>
   );

@@ -146,6 +146,7 @@ function App() {
         <Router basename="/my-timeline">
           <nav className="nav">
             <Link to="/timeline">Timeline</Link>
+            <div className="the-line"></div>
             <Link to="/personallife">Personal Life</Link>
           </nav>
 

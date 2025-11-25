@@ -262,18 +262,24 @@ i {
 .nav {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
   gap: 20px;
+  border: 1px solid #1a1a1a;
+  background-color: #1a1a1a;
+  width: 600px;
+  height: 60px;
+}
+
+.the-line {
+  height: 60px;
+  width: 1px;
+  border: 2px solid gray;
 }
 
 nav a {
   text-decoration: none;
   font-size: 18px;
-  border: 1px solid gray;
-  border-radius: 10px;
   color: white;
-  padding: 7px;
-  background-color: gray;
 }
 
 .family-members {
@@ -347,6 +353,41 @@ nav a {
   flex-direction: column;
   gap: 20px;
   padding: 20px;
+}
+
+.ckhouse {
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.ckhouse-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.my-city {
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.my-city-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
 }
 
 * {
