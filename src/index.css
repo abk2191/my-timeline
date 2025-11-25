@@ -287,7 +287,7 @@ nav a {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  gap: 18px;
+  gap: 15px;
 }
 
 .fam-mem-details {
