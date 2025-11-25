@@ -238,7 +238,7 @@ i {
 .my-image-div {
   height: 100px;
   width: 100px;
-  border: 4px solid blueviolet;
+  border: 1px solid gray;
   border-radius: 50%;
   background-image: url("/abk.jpg");
   background-size: cover;
@@ -256,6 +256,61 @@ i {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 18px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  color: white;
+  padding: 7px;
+  background-color: gray;
+}
+
+.family-members {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 16px;
+  border: 1px solid #e1e5e9;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.fam-mem-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 10px;
+  font-family: "Inter", sans-serif;
+}
+
+.fam-mem-details p {
+  font-size: 22px;
+}
+
+.fam-mem {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 20px;
+  margin: 15px;
+  padding: 15px;
+  margin-bottom: 25px;
+}
+
+.fam-mem-img {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
 }
 
 * {
