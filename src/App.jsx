@@ -145,9 +145,11 @@ function App() {
         </div>
         <Router basename="/my-timeline">
           <nav className="nav">
-            <Link to="/timeline">Timeline</Link>
-            <div className="the-line"></div>
-            <Link to="/personallife">Personal Life</Link>
+            <div className="nav-links-container">
+              <Link to="/timeline">Timeline</Link>
+              <div className="the-line"></div>
+              <Link to="/personallife">Personal</Link>
+            </div>
           </nav>
 
           <Routes>
