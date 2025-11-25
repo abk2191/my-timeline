@@ -340,8 +340,8 @@ nav a {
   }
 
   .fam-mem-img {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
   }
 
   .about {
@@ -416,8 +416,8 @@ nav a {
   }
 
   .fam-mem-img {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
   }
 
   .about {
@@ -467,6 +467,11 @@ nav a {
   .main-container {
     padding: 12px 8px;
     gap: 16px;
+  }
+
+  .fam-mem-img {
+    height: 80px;
+    width: 80px;
   }
 
   .about {
