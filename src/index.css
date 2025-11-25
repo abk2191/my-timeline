@@ -365,6 +365,11 @@ nav a {
     gap: 24px;
   }
 
+  .my-story p {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+  }
+
   .fam-mem-details h1 {
     font-size: 20px;
   }
@@ -441,6 +446,11 @@ nav a {
     gap: 20px;
   }
 
+  .my-story p {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+  }
+
   .fam-mem-details h1 {
     font-size: 20px;
   }
@@ -497,6 +507,11 @@ nav a {
   .main-container {
     padding: 12px 8px;
     gap: 16px;
+  }
+
+  .my-story p {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
   }
 
   .fam-mem-details h1 {
