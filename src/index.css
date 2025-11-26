@@ -282,6 +282,10 @@ nav a {
   color: white;
 }
 
+nav a:focus {
+  color: yellow;
+}
+
 .family-members {
   width: 100%;
   max-width: 600px;
