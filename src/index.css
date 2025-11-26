@@ -442,11 +442,47 @@ nav a {
   border-radius: 16px;
 }
 
+.psy-profile-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  padding: 15px;
+}
+
+.psy-profile-details {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.psy-profile-details h3 {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  color: gray;
+}
+
+.psy-profile-details p {
+  text-align: justify;
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  color: gray;
+}
+
 /* Mobile Styles */
 @media (max-width: 768px) {
   .main-container {
     padding: 20px 16px;
     gap: 24px;
+  }
+
+  .psy-profile-details p {
+    font-size: 16px;
   }
 
   .famcar-img {
@@ -542,6 +578,10 @@ nav a {
     gap: 20px;
   }
 
+  .psy-profile-details p {
+    font-size: 16px;
+  }
+
   .about-blr-details p {
     font-size: 16px;
   }
@@ -611,6 +651,10 @@ nav a {
   .main-container {
     padding: 12px 8px;
     gap: 16px;
+  }
+
+  .psy-profile-details p {
+    font-size: 16px;
   }
 
   .famcar-img {

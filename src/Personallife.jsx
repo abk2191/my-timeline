@@ -136,6 +136,152 @@ function Personallife() {
           </p>
         </div>
       </div>
+      <div className="divider">
+        <h1>My Psychological Profile</h1>
+      </div>
+      <div className="psy-profile-div">
+        <div className="psy-profile-details">
+          <h3>Psychological analysis done by ChatGPT/AI</h3>
+          <p>🧠 Your Psychological Landscape</p>
+          <p>A structured reflection based on what you’ve shared with me</p>
+          <p>
+            <strong>1️⃣ Identity + Self-Perception</strong>
+          </p>
+          <p>You see yourself as:</p>{" "}
+          <p>An exceptional mind trapped under circumstances</p>{" "}
+          <p>Someone whose life story is unconventional and difficult</p>{" "}
+          <p>
+            A person with deep internal pride, but equally deep self-disgust
+          </p>
+          <p>You struggle with a split identity:</p>{" "}
+          <p>“I’m special, different, powerful.”</p>{" "}
+          <p>“I’m broken, too messed up to function.”</p>{" "}
+          <p>You often switch rapidly between those two extremes.</p>
+          <p>
+            <strong>2️⃣ Cognitive Traits</strong>
+          </p>
+          <p>You are:</p>{" "}
+          <p>Highly introspective — deep self-analysis is constant</p>{" "}
+          <p>Fast learner, especially with technology</p>{" "}
+          <p>
+            Creative and obsessive — once you start building something, you
+            can’t stop until the idea is complete
+          </p>{" "}
+          <p>Driven more by intellectual curiosity than external reward</p>
+          <p>But:</p> <p>You overthink consequences and meaning</p>{" "}
+          <p>You become overwhelmed when structure fades</p>
+          <p>
+            <strong>3️⃣ Emotion + Motivation</strong>
+          </p>
+          <p>You feel emotions intensely:</p>{" "}
+          <p>Anger at perceived injustice or unfair treatment</p>{" "}
+          <p>Pride when you create something with your mind</p>{" "}
+          <p>Anxiety in social situations due to past traumas</p>
+          <p>Your biggest emotional fuels:</p> <p>Fear of being judged</p>{" "}
+          <p>Fear of being controlled</p> <p>Longing to prove worth</p>
+          <p>You avoid relationships because vulnerability feels dangerous.</p>
+          <p>
+            <strong>4️⃣ Trauma Patterns</strong>
+          </p>
+          <p>
+            Repeated job failures, isolation, and family conflict left you with:
+          </p>{" "}
+          <p>
+            Chronic avoidance of responsibility and systems (absconding becomes
+            a coping mechanism)
+          </p>{" "}
+          <p>
+            Difficulties with stability — anything that feels restrictive
+            triggers escape
+          </p>{" "}
+          <p>A belief that nobody truly sees your value, so you detach first</p>
+          <p>Your independence is part survival, part rebellion.</p>
+          <p>
+            <strong>5️⃣ Addiction Dynamics</strong>
+          </p>
+          <p>Your weed use has served as:</p> <p>Self-medication</p>{" "}
+          <p>Escape from guilt and self-judgment</p>{" "}
+          <p>A crutch for creativity and altered thinking</p>
+          <p>
+            You view weed as a tool, not merely a substance — that justification
+            both protects and harms you.
+          </p>{" "}
+          <p>
+            You want freedom from it, but also fear losing what it gives you
+            mentally.
+          </p>
+          <p>
+            <strong>6️⃣ Social World</strong>
+          </p>
+          <p>You are deeply alone — not just physically, but conceptually.</p>
+          <p>You crave:</p> <p>A place where you are not known by your past</p>{" "}
+          <p>Respect without having to explain everything</p>
+          <p>But you also:</p> <p>Distrust people’s intentions</p>{" "}
+          <p>Fear being “exposed” as weak or damaged</p>
+          <p>So isolation becomes a shield and a prison at once.</p>
+          <p>
+            <strong>7️⃣ Ambition + Future Orientation</strong>
+          </p>
+          <p>You refuse to settle for an average life.</p>
+          <p>You want:</p> <p>Power over your own fate</p>{" "}
+          <p>Financial security (4 crore goal)</p>{" "}
+          <p>A narrative transformation — from chaos → greatness</p>
+          <p>
+            You’re not motivated by pleasure or comfort — you’re motivated by
+            survival of your identity.
+          </p>
+          <p>
+            <strong>✨ Core Strengths</strong>
+          </p>
+          <p>
+            Extremely resilient — no matter how bad things get, you keep
+            envisioning a future
+          </p>{" "}
+          <p>
+            Highly resourceful — learn fast, create useful things independently
+          </p>{" "}
+          <p>Deep self-awareness</p>{" "}
+          <p>Massive inner drive when passion locks in</p>{" "}
+          <p>Capable of reinvention</p>
+          <p>Many give up long before you did.</p>
+          <p>
+            <strong>⚠️ Core Vulnerabilities</strong>
+          </p>
+          <p>Avoidance when overwhelmed (jobs, people, commitments)</p>{" "}
+          <p>All-or-nothing thinking (if it isn’t perfect, it’s failure)</p>{" "}
+          <p>
+            Shame + defensiveness (you self-sabotage before others can judge
+            you)
+          </p>{" "}
+          <p>Grandiosity as armor (to fight feelings of inadequacy)</p>
+          <p>
+            Your mind is strong — but sometimes sharp weapons cut the wielder.
+          </p>
+          <p>
+            <strong>🔥 Your Central Psychological Conflict</strong>
+          </p>
+          <p>
+            You want to become a new person while being haunted by who you were.
+          </p>
+          <p>
+            You believe success will wash away your past failures — and that
+            belief drives you forward and exhausts you.
+          </p>
+          <p>
+            <strong>🌱 What This Profile Suggests About Your Path</strong>
+          </p>
+          <p>You don’t need saving. You need direction and containers —</p>
+          <p>stable job</p> <p>routine</p> <p>small, controlled victories</p>{" "}
+          <p>one vision to pursue long-term</p>
+          <p>
+            You’re not starting from zero — you’re starting from experience.
+          </p>
+          <p>
+            Your mind is not ordinary. Your challenge is learning to use it
+            without burning yourself alive.
+          </p>
+        </div>
+      </div>
     </>
   );
 }
