@@ -7,6 +7,7 @@ import lovelyimg from "/lovely.png";
 import ckhouse from "/ckhouse.jpg";
 import sagardighi from "/sagardighi.jpg";
 import bangalore from "/blr.jpg";
+import car from "/famcar.jpg";
 
 function Personallife() {
   return (
@@ -94,6 +95,12 @@ function Personallife() {
       </div>
       <div className="my-city">
         <img src={sagardighi} className="my-city-img" />
+      </div>
+      <div className="divider">
+        <h1>Our family car</h1>
+      </div>
+      <div className="famcar-div">
+        <img src={car} alt="car" className="famcar-img" />
       </div>
       <div className="divider">
         <h1>About Bangalore</h1>

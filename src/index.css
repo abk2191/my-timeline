@@ -437,11 +437,20 @@ nav a {
   border-radius: 8px;
 }
 
+.famcar-img {
+  width: 600px;
+  border-radius: 16px;
+}
+
 /* Mobile Styles */
 @media (max-width: 768px) {
   .main-container {
     padding: 20px 16px;
     gap: 24px;
+  }
+
+  .famcar-img {
+    width: 100%;
   }
 
   .nav {
@@ -537,6 +546,10 @@ nav a {
     font-size: 16px;
   }
 
+  .famcar-img {
+    width: 100%;
+  }
+
   .my-story p {
     font-family: "Inter", sans-serif;
     font-size: 16px;
@@ -598,6 +611,10 @@ nav a {
   .main-container {
     padding: 12px 8px;
     gap: 16px;
+  }
+
+  .famcar-img {
+    width: 100%;
   }
 
   .about-blr-details p {
