@@ -448,6 +448,10 @@ nav a {
     width: 100%;
   }
 
+  .about-blr-details p {
+    font-size: 16px;
+  }
+
   .my-story p {
     font-family: "Inter", sans-serif;
     font-size: 16px;
@@ -529,6 +533,10 @@ nav a {
     gap: 20px;
   }
 
+  .about-blr-details p {
+    font-size: 16px;
+  }
+
   .my-story p {
     font-family: "Inter", sans-serif;
     font-size: 16px;
@@ -590,6 +598,10 @@ nav a {
   .main-container {
     padding: 12px 8px;
     gap: 16px;
+  }
+
+  .about-blr-details p {
+    font-size: 16px;
   }
 
   .my-story p {
