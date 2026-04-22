@@ -102,7 +102,7 @@ function App() {
       duration: "Mar 2026",
       status: "Absconded - Unprofessional text msg to recruiter",
       logo: Starteklogo,
-      designation: "Technical Support (VMWare)",
+      designation: "PhonePe Support",
     },
     {
       id: 12,
@@ -110,7 +110,7 @@ function App() {
       duration: "Mar 2026",
       status: "Absconded - hostile behaviour",
       logo: aloricalogo,
-      designation: "Technical Support (VMWare)",
+      designation: "Customer Support (Amazon)",
     },
   ];
 
