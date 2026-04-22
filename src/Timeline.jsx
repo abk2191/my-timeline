@@ -211,9 +211,9 @@ function Timeline({ mySchool, jobDetails, vitlogo }) {
         <div className="divider">
           <h1>End of Phase-1</h1>
           <p style={{ fontSize: "14px", marginTop: "6px" }}>
-            Age: 33 | Bank Balance: 0 | Unemployed |
+            Age: 34 | Bank Balance: 0 | Unemployed |
           </p>
-          <p style={{ fontSize: "14px" }}>Debt: ~38K | Nov 2025</p>
+          <p style={{ fontSize: "14px" }}>Debt: 0 | April 2026</p>
         </div>
         <div className="divider">
           <h1 style={{ paddingTop: "50px" }}>Beginning of Phase-2</h1>
@@ -224,7 +224,7 @@ function Timeline({ mySchool, jobDetails, vitlogo }) {
               paddingBottom: "30px",
             }}
           >
-            The Restart | Dec 2025
+            The Restart | June 2025
           </p>
         </div>
       </div>

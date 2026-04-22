@@ -12,6 +12,7 @@ import tplogo from "/tp.svg";
 import cameologo from "/newera.png";
 import aloricalogo from "/alorica.png";
 import Personallife from "./Personallife";
+import Starteklogo from "/startek.jpg";
 
 function App() {
   const jobDetails = [
@@ -95,6 +96,22 @@ function App() {
       logo: concentrixlogo,
       designation: "Technical Support (VMWare)",
     },
+    {
+      id: 11,
+      compname: "Startek",
+      duration: "Mar 2026",
+      status: "Absconded - Unprofessional text msg to recruiter",
+      logo: Starteklogo,
+      designation: "Technical Support (VMWare)",
+    },
+    {
+      id: 12,
+      compname: "Alorica",
+      duration: "Mar 2026",
+      status: "Absconded - hostile behaviour",
+      logo: aloricalogo,
+      designation: "Technical Support (VMWare)",
+    },
   ];
 
   const mySchool = [
@@ -129,7 +146,7 @@ function App() {
                 <strong>DOB:</strong> 21/DEC/1991
               </p>
               <p>
-                <strong>AGE:</strong> 33
+                <strong>AGE:</strong> 34
               </p>
               <p>
                 <strong>HOMETOWN:</strong> COOCHBEHAR, WEST BENGAL
