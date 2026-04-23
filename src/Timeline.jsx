@@ -224,7 +224,7 @@ function Timeline({ mySchool, jobDetails, vitlogo }) {
               paddingBottom: "30px",
             }}
           >
-            The Restart | June 2025
+            The Restart | June 2026
           </p>
         </div>
       </div>
